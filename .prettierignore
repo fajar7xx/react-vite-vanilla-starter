@@ -1,0 +1,14 @@
+node_modules
+dist
+build
+coverage
+.next
+.cache
+public
+*.config.js
+
+*.txt
+package-lock.json
+yarn.lock
+package.json
+pnpm-lock.yaml
