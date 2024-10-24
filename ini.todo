@@ -1,0 +1,20 @@
+# State Management
+pnpm add @reduxjs/toolkit react-redux
+# atau
+pnpm add zustand
+
+# Form Handling
+pnpm add react-hook-form zod @hookform/resolvers
+
+# HTTP Client
+pnpm add axios
+
+# UI Components
+pnpm add @headlessui/react
+pnpm add @radix-ui/react-dialog @radix-ui/react-dropdown-menu
+
+# Icons
+pnpm add lucide-react
+
+# Date Handling
+pnpm add date-fns
